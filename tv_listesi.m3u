@@ -227,12 +227,20 @@ https://goldvod.org/tv/vavoo?id=2806079612d7dc0e47a926
 https://goldvod.org/tv/vavoo?id=1453692314f52730c50395
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [Zirve]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Zirve]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://1031kralbettv.com/
-https://four.zirvestream4.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 1 1080p [TR GOALS]" tvg-id="1" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [TR GOALS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals1365.xyz/
-https://two.4928d54d950ee70q22.lat/yayin1.m3u8
+#EXTVLCOPT:http-referer=https://dengetv54.live/
+https://four.zirvestream5.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 1080p [Inat]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Inat]
+#EXTVLCOPT:http-referrer=https://dengetv54.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://four.zirvestream5.cfd/yayininat.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 1080p [Tr Goals]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Tr Goals]
+#EXTVLCOPT:http-referrer=https://dengetv54.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://four.zirvestream5.cfd/yayin1.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 1080p [Xyz Sports]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Xyz Sports]
+#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://one.1e05414f6c60ad91.click/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [Selçuk Sports]" tvg-id="1" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Selçuk Sports]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://www.selcuksportshd1846.xyz/
