@@ -228,11 +228,15 @@ https://goldvod.org/tv/vavoo?id=1453692314f52730c50395
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [Zirve]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Zirve]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://1031kralbettv.com/
-https://three.zirvestream4.cfd/yayinzirve.m3u8
+https://four.zirvestream4.cfd/yayinzirve.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [TR GOALS]" tvg-id="1" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [TR GOALS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals1362.xyz/
-https://one.4928d54d950ee70q21.lat/yayin1.m3u8
+#EXTVLCOPT:http-referer=https://trgoals1365.xyz/
+https://two.4928d54d950ee70q22.lat/yayin1.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 1080p [Selçuk Sports]" tvg-id="1" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Selçuk Sports]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://www.selcuksportshd1846.xyz/
+https://one.3ffcd2ea10adef4f.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [50 FPS]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [50 FPS]
 https://goldvod.org/tv/vavoo?id=2113462398d8dd57a8ea73
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK]
@@ -425,8 +429,8 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthS
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ulketv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDU6MzU6MjEgUE0maGFzaF92YWx1ZT1GTkExUnhGSjdGVXFpNzBoUUZqblh3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
 #EXTINF:-1 tvg-name="ÜLKE TV 720p" tvg-id="0b38d5bd-5cc5-4595-8e2d-bc7a8119bb57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/2560px-%C3%9Clke_TV_logo.svg.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",ÜLKE TV 720p
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-#EXTINF:-1 tvg-name="Halk TV 1080p" tvg-id="" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",Halk TV 1080p
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Halk_Tv.m3u8
+#EXTINF:-1 tvg-name="Halk TV 1080p" tvg-id="3c0c47cd-0169-4d1b-b362-817c2a304037" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",Halk TV 1080p
+https://ottcdn.kablowebtv.net/live_turksat_sub3/halktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI1IDU6MzU6MjEgUE0maGFzaF92YWx1ZT1GTkExUnhGSjdGVXFpNzBoUUZqblh3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
 #EXTINF:-1 tvg-name="HABER GLOBAL 1080p" tvg-id="247a84cd-cdad-4557-ade7-297f3e9ff1af" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",HABER GLOBAL 1080p
 http://176.65.146.123:6003/play/a00z/index.m3u8
 #EXTINF:-1 tvg-name="HABER GLOBAL 720p" tvg-id="247a84cd-cdad-4557-ade7-297f3e9ff1af" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",HABER GLOBAL 720p
